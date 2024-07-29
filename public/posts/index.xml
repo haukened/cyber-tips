@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Uh-oh</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Uh-oh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 29 Jul 2024 14:06:13 -0600</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Cyber Tips</title>
+            <link>http://localhost:1313/posts/tips/</link>
+            <pubDate>Mon, 29 Jul 2024 14:06:13 -0600</pubDate>
+            
+            <guid>http://localhost:1313/posts/tips/</guid>
+            <description>Why are you here? We don&amp;rsquo;t know</description>
+            <content type="html"><![CDATA[<h1 id="why-are-you-here">Why are you here?</h1>
+<p>We don&rsquo;t know</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
